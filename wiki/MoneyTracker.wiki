@@ -12,3 +12,4 @@ Ngôn ngữ tiếng Việt, dành cho người Việt, giao diện đơn giản,
   * Nokia s40 3rd
   * Nokia s40 6th
   * Nokia s60 5th
+  * LG Java Phone
